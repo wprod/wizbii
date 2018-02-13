@@ -1,0 +1,11 @@
+.card {
+  margin: 1rem;
+}
+
+.card img {
+  margin: 1rem 0;
+}
+
+.badge-info {
+    margin: 0 3px 13px 0;
+}
